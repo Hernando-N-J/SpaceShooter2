@@ -1,1 +1,1 @@
-# SpaceShooter2
+# Galaxy-Shooter-2D
